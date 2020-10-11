@@ -1,2 +1,2 @@
 # World-Happiness-Analysis-
-This Project analyses  what factors contribute happy countries around the world(kaggle). The data is taken from kaggle
+This Project analyses  what factors contribute the Happiness Score  around the world(kaggle). The data is taken from kaggle
